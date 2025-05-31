@@ -10,7 +10,6 @@ A modern career development platform with roadmap visualization and skill assess
 - 🎯 Personalized career roadmaps
 - 📊 Skill assessment dashboard
 - 🏆 Achievement tracking
-- 🔍 Job market insights
 - 📱 Fully responsive design
 
 ## 🛠️ Tech Stack
